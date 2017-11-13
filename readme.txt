@@ -1,6 +1,1 @@
-1231
-132
-123
-123
-12123123123123
-edit by Paul Chern
+This is going to be a test repository to learn how to host a website on github.
